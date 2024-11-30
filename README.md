@@ -20,3 +20,5 @@ Portfolio: dadullahakbary.ir 🌐
 Contributions 💻
 
 I actively contribute to open-source projects and enjoy solving challenges that benefit the community. Check out my repositories and let me know if you'd like to collaborate. 🤓
+
+[![rawdydev's GitHub | Stats](https://stats.quira.sh/rawdydev/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=rawdydev)
