@@ -1,6 +1,6 @@
 Welcome to My GitHub Profile! 🚀
 
-Hello! I'm Dadullah Akbary, a passionate developer constantly learning and building innovative solutions. This repository is home to my projects, experiments, and contributions to open-source communities. Feel free to explore, fork, or contribute! 🎉
+Hello! I'm Arshya Akbary, a passionate developer constantly learning and building innovative solutions. This repository is home to my projects, experiments, and contributions to open-source communities. Feel free to explore, fork, or contribute! 🎉
 
 About Me 🌟
 
